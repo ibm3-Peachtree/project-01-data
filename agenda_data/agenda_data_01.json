@@ -1,0 +1,84 @@
+{
+  "AI_Agendas": [
+    {
+      "agenda_name": "AI 정책 및 거버넌스",
+      "tags": [
+        "AI Governance",
+        "AI Safety",
+        "Responsible AI",
+        "AI Policy",
+        "Public Inputs AI",
+        "Democratic Inputs to AI",
+        "Security",
+        "AI Research",
+        "Social Science",
+        "Non Profit"
+      ]
+    },
+    {
+      "agenda_name": "OpenAI 생태계 및 전략",
+      "tags": [
+        "OpenAI Leadership",
+        "OpenAI Team",
+        "OpenAI Presentation",
+        "OpenAI Jobs Platform",
+        "Recruiting",
+        "OpenAI Certifications",
+        "o1 reasoning model",
+        "Technical Support & Enablement",
+        "Infrastructure as Destiny"
+      ]
+    },
+    {
+      "agenda_name": "AI 교육 및 인재 개발",
+      "tags": [
+        "AI Literacy",
+        "AI Education",
+        "AI Pedagogy",
+        "Edu Use Cases",
+        "Higher Education",
+        "Upskilling",
+        "Future of Work",
+        "Career",
+        "STEM"
+      ]
+    },
+    {
+      "agenda_name": "기술 및 학문적 혁신",
+      "tags": [
+        "Scientific Advancement",
+        "Innovation",
+        "OpenAI for Science",
+        "AI Science",
+        "Life Science"
+      ]
+    },
+    {
+      "agenda_name": "의료 및 헬스케어",
+      "tags": [
+        "ChatGPT for Health",
+        "Healthcare",
+        "OpenAI for Healthcare"
+      ]
+    },
+    {
+      "agenda_name": "AI 활용 및 경제",
+      "tags": [
+        "ChatGPT Tips",
+        "Everyday Applications",
+        "AI Adoption",
+        "AI Economics",
+        "Economic Opportunity",
+        "Socially Beneficial Use Cases",
+        "Cultural Production"
+      ]
+    },
+    {
+      "agenda_name": "지역 및 커뮤니티 특화",
+      "tags": [
+        "Southeast Asia",
+        "Expert AI Training"
+      ]
+    }
+  ]
+}
