@@ -59,7 +59,7 @@ def run_flash_model(text:str)->str:
     
     return answer
 # 17번째 데이터부터 시작하기
-for idx in range(17, len(session_data)):
+for idx in range(44, len(session_data)):
     print(f"--- {idx}번째 데이터 처리 중 ---")
     text = session_data[idx]['description']
     
