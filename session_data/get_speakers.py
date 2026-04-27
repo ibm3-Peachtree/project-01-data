@@ -62,7 +62,8 @@ print(json_speakers)
 
 time.sleep(30)
 
-for idx in range(11, len(session_data)) :
+# 30번째부터 하기
+for idx in range(42, len(session_data)) :
     print(f"--- {idx}번째 데이터 처리 중 ---")
     temp = session_data[idx]['speakers']
 
